@@ -7,7 +7,8 @@
 
 #include <stdio.h>
 
-int main() {
+int main()
+{
    // Make changes to string constant parameter of
    // printf function
    printf("Hello git!\n");
