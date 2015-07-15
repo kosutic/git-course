@@ -2,6 +2,9 @@
 // Make changes to this file in order to practise
 // your git skills.
 
+// author: Nebojsa Kosutic
+// email: nebojsa.kosutic@rt-rk.com
+
 #include <stdio.h>
 
 int main() {
