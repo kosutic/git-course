@@ -8,6 +8,8 @@
 #include <stdio.h>
 
 int main() {
+   // Make changes to string constant parameter of
+   // printf function
    printf("Hello git!\n");
    return 0;
 }
