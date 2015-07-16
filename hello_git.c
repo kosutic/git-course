@@ -11,7 +11,7 @@ int main()
 {
    // Make changes to string constant parameter of
    // printf function
-   printf("Hello git!\n");
+   printf("Just for test!\n");
    return 0;
 }
 
